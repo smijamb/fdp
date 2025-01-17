@@ -1,0 +1,225 @@
+187  sudo apt-get install net-tools
+  188  nslookup
+  189  sudo apt-get update
+  190  sudo apt-get install net-tools
+  191  sudo apt install net-tools
+  192  open ss.txt
+  193  open ss.txt
+  194  cat ss.txt
+  195  exit
+  196  gedit ss.txt
+  197  telnet -h
+  198  man telnet
+  199  sudo apt install ftp
+  200  man ftp
+  201  ftp -h
+  202  ipconfig
+  203  ifconfig
+  204  netstat
+  205  arp
+  206  ifconfig
+  207  ifconfig/all
+  208  nslookup www.google.com
+  209  traceroute www.google.com
+  210  man ifconfig
+  211  traceroute~
+  212  traceroute 104.21.32.1
+  213  install traceroute
+  214  get install traceroute
+  215  sudo apt-get install traceroute
+  216  arp
+  217  sudo apt install inetutils-traceroute
+  218  traceroute
+  219  ifconfig
+  220  telnet 
+  221  loopback
+  222  netdiscover
+  223  apt install telnetd 
+  224  sudo apt install telnetd 
+  225  ifconfig
+  226  cd..
+  227  cd ~
+  228  su
+  229  passwd
+  230  ls
+  231  cd ~
+  232  ls
+  233  ls -al
+  234  cd~
+  235  cd home
+  236  cd /home
+  237  cd Desktop
+  238  cd Desktop/
+  239  ls
+  240  cd Desktop
+  241  ls
+  242  pwd
+  243  cd ss
+  244  cd..
+  245  cd ..
+  246  mkdir smija
+  247  ls
+  248  cd smija
+  249  touch ss.txt
+  250  nano ss.txt
+  251  cat ss.txt
+  252  cp ss.txt s1.txt
+  253  cat s1.txt
+  254  nano s2.txt
+  255  mv s1.txt  s3.txt
+  256  ls
+  257  mv s3.txt ~Desktop
+  258  cd ..
+  259  ls
+  260  cd smija
+  261  ls
+  262  mv s2.txt /home/hp/Desktop/
+  263  cd..
+  264  ls
+  265  cd ..
+  266  ls
+  267  cd smija
+  268  mv ~Desktop s2.txt
+  269  ls
+  270  cd ~
+  271  sudo adduser smija
+  272  uname
+  273  sudo userdel smija
+  274  pa aux
+  275  ps aux
+  276  pu aux
+  277  aux
+  278  ls
+  279  ls -l
+  280  chmod u+wx ss.txt
+  281  ls -l
+  282  chmod o+wr smija
+  283  ls -l
+  284  chmode u+wrx ss.txt
+  285  chmod u+wrx ss.txt
+  286  ls -l
+  287  chmod a=r ss.txt
+  288  ls -l
+  289  chmod a=rwx ss.txt
+  290  ls -l
+  291  uname -a
+  292  who
+  293  uname -r
+  294  history 
+  295  history >cat allcommandsdone.txt
+  296  history > allcommandsdone.txt
+  297  ls
+  298  time ls -l
+  299  dmesg
+  300  sudo demsg
+  301  sudo dmsg
+  302  sudo dmesg
+  303  cd smija
+  304  ls
+  305  grep "motherboard" itwslab.pdf
+  306  cd..
+  307  cd ..
+  308  ls
+  309  cat allcommandssone.txt
+  310  cat allcommandsdone.txt
+  311  grep "ls" allcommandsdone.txt
+  312  gedit s.sh
+  313  bash s.sh
+  314  gedit s1.sh
+  315  bash s1.sh
+  316  gedit s1.sh
+  317  bash s1.sh
+  318  gedit s1.sh
+  319  bash s1.sh
+  320  bash s1.sh
+  321  gedit s1.sh
+  322  bash s.sh
+  323  gedit s.sh
+  324  bash s.sh
+  325  gedit s.sh
+  326  bash s.sh
+  327  gedit s.sh
+  328  bash s.sh
+  329  gedit s.sh
+  330  bash s.sh
+  331  gedit s.sh
+  332  bash s.sh
+  333  gedit s.sh
+  334  bash s.sh
+  335  gedit s.sh
+  336  bash s.sh
+  337  gedit s.sh
+  338  6
+  339  bash s.sh
+  340  gedit s.sh
+  341  bash s.sh
+  342  gedit s.sh
+  343  bash s.sh
+  344  gedit s.sh
+  345  bash s.sh
+  346  gedit s.sh
+  347  bash s.sh
+  348  ./s.sh
+  349  chmod +x s.sh
+  350  ./s.sh
+  351  gedit s.sh
+  352  sudo apt-get install git
+  353  git -version
+  354  git
+  355  git config --global user.name "smijamb"
+  356  git config --global user.email "rukkubala2004@gmail.com"
+  357  git config --list
+  358  ssh-keygen -t ed25519 -C "rukkubala2004@gmail.com"
+  359  cat ~/.ssh/id_ed25519.pub
+  360  mkdir fdpgit
+  361  cd fdpgit
+  362  git clone https://github.com/smijamb/fdp.git
+  363  ls
+  364  cd fdp
+  365  git branch
+  366  touch sample.py
+  367  ls
+  368  git status
+  369  git add sample.py
+  370  git status
+  371  git commit -m "here i am adding my first python file to demonstrate "
+  372  git push
+  373  git push
+  374  smijamb
+  375  git push
+  376  history
+  377  git clone git@github.com:smijamb/fdp.git
+  378  ls
+  379  cd fdp
+  380  git branch
+  381  git status
+  382  touch ss.py
+  383  ls
+  384  git status
+  385  git -m commit "my next file using ssh"
+  386  git status
+  387  git commit -m
+  388  git commit -m "my new file push with ssh"
+  389  git status
+  390  git commit -m "my new file push with ssh"
+  391  git add ss.py
+  392  ls
+  393  git commit -m "my new file push with ssh"
+  394  git push
+  395  history
+  396  history > allgdpcommandss.txt
+hp@hp-HP-Pro-Tower-280-G9-PCI-Desktop-PC:~/fdpgit/fdp/fdp$ git add .
+hp@hp-HP-Pro-Tower-280-G9-PCI-Desktop-PC:~/fdpgit/fdp/fdp$ git commit -m "my new file with all history"
+[develop 252b275] my new file with all history
+ 1 file changed, 396 insertions(+)
+ create mode 100644 allgdpcommandss.txt
+hp@hp-HP-Pro-Tower-280-G9-PCI-Desktop-PC:~/fdpgit/fdp/fdp$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 2.50 KiB | 2.50 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:smijamb/fdp.git
+   bc51dbf..252b275  develop -> develop
+
